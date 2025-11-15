@@ -56,3 +56,4 @@ Scatter Plot (for discount vs profit)
 📈 Business Impact:
 
 This dashboard helps retail teams optimize pricing, reduce losses caused by high discounts, and identify potential high-growth regions
+![dashboard preview](https://github.com/Rutuja-3-coder/Sample-Store-Dashboard/blob/main/Sample%20store.jpeg)
